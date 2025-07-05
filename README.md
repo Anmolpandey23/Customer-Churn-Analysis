@@ -4,6 +4,7 @@ Customer Churn Analysis is a data analytics project focused on understanding the
 Customer churn analysis helps businesses understand why customers stop using their service. This project focuses on analyzing a telecom company's dataset to identify churn patterns and provide actionable insights using Python and data visualization.
 
 ---
+
 ## 📁 Dataset
 
 - File: `Customer Churn.csv`
